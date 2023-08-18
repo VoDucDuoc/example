@@ -1,0 +1,19 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_16AD8ABE_06C1_6A80_4199_9B01407FC264.label = IMG_8757
+panorama_1718F42C_06C1_9D80_4196_57943B6052B2.label = IMG_8758
+panorama_16B00F3C_06C1_6B80_418F_092334DBD7FA.label = IMG_8759
+panorama_154B8215_06C0_B580_4189_DE0EA61A3C22.label = Master Bedroom
+panorama_10A7DD64_06C3_6F80_4199_7FBDB504AA66.label = livingroom1
+panorama_1549A99B_06C3_7680_4191_9C862BDD20D6.label = livingroom2
+panorama_154AC61B_06C0_9D80_417E_389B4ECF0AEF.label = mainkitchen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
